@@ -14,6 +14,9 @@
 
 #Screenshot
 ![image](https://github.com/mvibhute92/to-do-react-app/assets/128572795/35b9527e-cab9-4472-aa5b-9d14368ca95e)
+![image](https://github.com/mvibhute92/to-do-react-app/assets/128572795/b70c3a6a-c9a4-48e7-b654-cbad089db5d4)
+![image](https://github.com/mvibhute92/to-do-react-app/assets/128572795/83ce2a6b-d6e9-45c1-8a70-1f34e93a2b6c)
+
 ##screen recording link
 https://drive.google.com/file/d/1l2-_igfrmNfv-G8VOZDYtvVxA_ItKC5l/view?usp=share_link
 
